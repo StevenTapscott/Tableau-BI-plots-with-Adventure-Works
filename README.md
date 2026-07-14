@@ -1,4 +1,4 @@
-# Tableau Project 2: Business Intelligence Plots with Adventure Works
+# Tableau Project: Business Intelligence Plots with Adventure Works
 
 ## Project Overview
 
